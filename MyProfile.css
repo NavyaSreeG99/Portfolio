@@ -1,0 +1,63 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 29-Sep-2022, 2:27:11 PM
+    Author     : navya
+*/
+
+ body {
+        color: #40514E;
+        margin: 0px;
+        text-align: center;
+        font-family: 'Merriweather', serif;
+    }
+  h2 {
+        font-family: 'Montserrat', sans-serif;
+        font-size: 2rem;
+        color: #66BFBF;
+        font-weight: normal;
+        padding-bottom: 10px;
+    }
+  .top-container {
+        background-color: #E8F6EF;
+        position: relative;
+        padding-top: 100px;
+    }
+       .top-cloud {
+        position: absolute;
+        margin-left: 20%;
+        top: 40px;
+    }
+       .bottom-cloud {
+        position: absolute;
+        left: 250px;
+        bottom: 300px;
+    }
+      .pic {
+        width: 30%;
+        float: left;
+        margin-right: 30px;
+    }
+     .bottom-container {
+        background-color: #11999E;
+        padding: 10px 0 10px;
+    }
+    .bio-row {
+        width: 50%;
+        margin: 100px auto 100px auto;
+        text-align: left;
+    }
+     a {
+        color: #EAF6F6;
+        font-family: 'Montserrat', sans-serif;
+        margin: 10px 20px;
+        text-decoration: none;
+    }
+    .copyright {
+        color: #EAF6F6;
+        font-size: 2rem;
+        font-family: 'Montserrat', sans-serif;
+        padding: 20px 0px;
+    }
