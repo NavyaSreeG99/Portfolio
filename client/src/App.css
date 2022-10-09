@@ -1,0 +1,100 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 29-Sep-2022, 2:27:11 PM
+    Author     : navya
+*/
+@import url(https://fonts.googleapis.com/css?family=Lora);
+body {
+  color: #40514E;
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1 {
+  font-size: 3rem;
+  margin: 100px auto 0 auto;
+  padding-left: 60px;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+  line-height: 2;
+}
+.a:hover{
+  text-decoration: none;
+}
+.nav{
+  width: 1000;
+}
+.top-container {
+  background-color: #E8F6EF;
+  position: relative;
+  padding-top: 150px;
+}
+ .top-cloud {
+  position: absolute;
+  margin-left: 20%;
+  padding-left:50px;
+  top: 50px;
+}
+ .bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 810px;
+}
+.pic {
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+.addition{
+  padding-bottom: 100px;
+}
+
+.bio-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+blockquote {
+  margin: 3.7em auto;
+  padding: 2em;
+  background: linear-gradient(white, white) padding-box, url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/80625/sea.jpg) border-box  0 / cover;
+  border: 2em solid transparent;
+  box-shadow: 5px 3px 30px black;
+  font-size: 1.4em;
+  font-family: 'Lora', serif;
+  font-style: italic;
+  line-height: 1.5;
+  width: 50%;
+}
+cite {
+  font-style: normal;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+.bottom-container {
+  background-color: #11999E;
+  padding: 5px 0 5px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  padding: 10px 0px;
+}
+.footer-link {
+  color: #EAF6F6;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  padding-right: 10px;
+  text-decoration: none;
+}
+.copyright {
+  color: #EAF6F6;
+  font-size: 2rem;
+  font-family: 'Montserrat', sans-serif;
+  padding: 20px 0px;
+}
